@@ -1,4 +1,4 @@
-# DadosDNC
+# Formação em Dados - Escola DNC
 Trabalhos realizados durante o curso de Formação em Dados da Escola DNC.
 
 
