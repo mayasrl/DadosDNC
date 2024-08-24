@@ -13,4 +13,5 @@ Crie as determinadas métricas: Quantidade total e valor total de vendas,
 Cotagem e valor total de vendas por data, quantidade e valor total por
 categoria e crie os filtros necessários para fornecer ao usuário a melhor
 experiência. Lembrem-se do storytelling e de um bom layout para ser atrativo.
+
 ![Captura de tela 2024-08-24 150126](https://github.com/user-attachments/assets/489eb13b-c11a-4e53-9aa9-a593507dcfd3)
