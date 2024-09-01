@@ -1,8 +1,8 @@
 # Formação em Dados - Escola DNC
 Trabalhos realizados durante o curso de Formação em Dados da Escola DNC.
 
+1. Desafio 1:
 
-Desafio 1:
 Neste desafio, você deverá construir um painel gerencial para um e-commerce
 que almeja estudar as suas vendas e assim, traçar a melhor estratégia para
 alavancar seus resultados.
