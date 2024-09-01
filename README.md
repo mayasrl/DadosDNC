@@ -1,7 +1,7 @@
 # Formação em Dados - Escola DNC
 Trabalhos realizados durante o curso de Formação em Dados da Escola DNC.
 
-1. Desafio 1:
+1. Desafio 1: Preveja os resultados de um e-commerce utilizando o Power BI.
 
 Neste desafio, você deverá construir um painel gerencial para um e-commerce
 que almeja estudar as suas vendas e assim, traçar a melhor estratégia para
