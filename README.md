@@ -18,4 +18,5 @@ A empresa de Marketing Digital "X" precisa atingir uma meta ambiciosa neste trim
 Suponha que você seja um analista de dados em uma empresa Edtech. Sua empresa está focada em acelerar seu crescimento aumentando o número de usuários cadastrados.
 Portanto, você foi solicitado a analisar vários aspectos da aquisição de clientes para ver o status do crescimento de novos usuários em sua empresa.
 
-![image](https://github.com/user-attachments/assets/f0f3013d-eb59-4a04-8efa-ba9e7e0dd13b)
+![Captura de tela 2025-01-13 102644](https://github.com/user-attachments/assets/f6776f0f-8321-42ec-bf31-b1e055191680)
+
