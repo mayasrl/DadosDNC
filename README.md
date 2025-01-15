@@ -28,6 +28,20 @@ Para **entender** melhor **a relação entre as variáveis** presentes nesses re
 
 ![image](https://github.com/user-attachments/assets/54855bf4-fdce-41b3-8b2c-c0dffbe76c99) ![image](https://github.com/user-attachments/assets/249de4bc-70d7-49dc-83bf-50f002a90f34) ![image](https://github.com/user-attachments/assets/58db978d-1c99-42f4-86b3-59731b8a362a)
 
+5. Desafio 5: Prepare seu dataset para modelagem de dados
+
+Uma empresa do ramo de e-commerce contratou você para levantar os indicadores de recência, frequência e ticket médio (RFM) dos seus clientes.
+
+A saber RFM:
+
+- R (Recency): Tempo que o cliente realizou a última compra (em dias)
+- F (Frequency): Quantidade de compras realizadas pelo cliente
+- M (Monetary): Valor do ticket médio gasto pelo cliente
+
+onde ticket médio = média do total gasto por pedido para cada cliente.
+
+Para isso, vocês receberam uma base de dados (arquivo csv) e devem construir um código em Python que gera um output também csv, porém contendo apenas a identificação do cliente e métricas RFM.
+
 
 
 
