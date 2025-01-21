@@ -36,5 +36,8 @@ Para isso, vocês receberam uma base de dados (arquivo csv) e devem construir um
 
 ![image](https://github.com/user-attachments/assets/e7f0c03f-d36b-4451-ac9a-28e289b322a8) ![image](https://github.com/user-attachments/assets/b3681f37-5dcf-4f83-82a7-d351906aebd2) ![image](https://github.com/user-attachments/assets/b64dc51f-2809-421f-8b64-da03b7c9dfa0) ![image](https://github.com/user-attachments/assets/306d4929-0fc5-4ed0-b2f8-17b6fd88ba21)
 
+-  Desafio 6: Preveja os usuários com alta chance de deixar seu Streaming
 
+Você trabalha em uma plataforma de streaming e a diretoria está preocupada com o alto índice de usuários cancelando as suas assinaturas. Eles acreditam que é possível prever se um usuário tem mais chance de deixar a plataforma antes que isso aconteça, e com base nessa informação tomar ações para reduzir o churn.
 
+Seu objetivo é criar um modelo de classificação capaz de prever se um usuário tem mais chance de cancelar a sua assinatura na plataforma ou não. Para isso, a empresa forneceu uma base de dados em csv contendo dados sobre as contas dos clientes.
