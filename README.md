@@ -26,7 +26,7 @@ Uma empresa está investindo mensalmente em plataformas de publicidade online, c
 
 Para **entender** melhor **a relação entre as variáveis** presentes nesses registros e **identificar os fatores que mais impactam** na geração de leads, a empresa solicitou a análise de um especialista em dados. **Além disso, a empresa busca criar um modelo de predição** de valores para estimar o retorno de vendas que pode ser gerado a partir de um determinado investimento em publicidade.
 
-![image](https://github.com/user-attachments/assets/54855bf4-fdce-41b3-8b2c-c0dffbe76c99) ![image](https://github.com/user-attachments/assets/249de4bc-70d7-49dc-83bf-50f002a90f34) ![image](https://github.com/user-attachments/assets/58db978d-1c99-42f4-86b3-59731b8a362a)
+![image](https://github.com/user-attachments/assets/249de4bc-70d7-49dc-83bf-50f002a90f34) ![image](https://github.com/user-attachments/assets/58db978d-1c99-42f4-86b3-59731b8a362a)
 
 -  Desafio 5: Prepare seu dataset para modelagem de dados
 
