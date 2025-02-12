@@ -34,7 +34,7 @@ Uma empresa do ramo de e-commerce contratou você para levantar os indicadores d
 
 Para isso, vocês receberam uma base de dados (arquivo csv) e devem construir um código em Python que gera um output também csv, porém contendo apenas a identificação do cliente e métricas RFM.
 
-![image](https://github.com/user-attachments/assets/e7f0c03f-d36b-4451-ac9a-28e289b322a8) ![image](https://github.com/user-attachments/assets/b3681f37-5dcf-4f83-82a7-d351906aebd2) ![image](https://github.com/user-attachments/assets/b64dc51f-2809-421f-8b64-da03b7c9dfa0) ![image](https://github.com/user-attachments/assets/306d4929-0fc5-4ed0-b2f8-17b6fd88ba21)
+![image](https://github.com/user-attachments/assets/e7f0c03f-d36b-4451-ac9a-28e289b322a8) ![image](https://github.com/user-attachments/assets/b3681f37-5dcf-4f83-82a7-d351906aebd2) ![image]
 
 -  Desafio 6: Preveja os usuários com alta chance de deixar seu Streaming
 
