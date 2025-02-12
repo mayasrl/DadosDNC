@@ -50,3 +50,6 @@ Seu objetivo é criar um modelo de classificação capaz de prever se um usuári
 Você foi contratado por uma empresa de e-commerce que está buscando entender melhor o comportamento de seus clientes para personalizar as suas campanhas de marketing. Para isso, a empresa disponibilizou uma base de dados em csv contendo dados sobre clientes, produtos e transações da loja realizadas entre os anos de 2010 e 2011. Com base nesses dados, você precisa agrupar os clientes em clusters com base em seu comportamento de compra. Isso irá permitir identificar padrões e características em comum entre os clientes, como: clientes que compram os mesmos produtos, clientes que possuem a mesma frequência de compras, clientes que gastam mais dinheiro em suas compras.
 
 A partir desses clusters, gere insights para que a empresa possa segmentar melhor a sua base de clientes e personalizar as suas campanhas de marketing, direcionando promoções e ofertas aos clientes com base no comportamento de compras.
+
+![image](https://github.com/user-attachments/assets/5f6af493-1020-42ed-8baa-df05b3dec6da)
+
