@@ -6,7 +6,7 @@ Bem-vindo(a)! Este repositório reúne **trabalhos e desafios** realizados duran
 
 ## Sumário
 
-1. [Desafio 1: Painel de E-commerce em Power BI](#Desafio1.pbix)  
+1. [Desafio 1: Painel de E-commerce em Power BI](#desafio-1-painel-de-e-commerce-em-power-bi)  
 2. [Desafio 2: Painel Gerencial Automatizado em Power BI](#desafio-2-painel-gerencial-automatizado-em-power-bi)  
 3. [Desafio 3: Planos de Ação a partir de Análises com SQL](#desafio-3-planos-de-a%C3%A7%C3%A3o-a-partir-de-an%C3%A1lises-com-sql)  
 4. [Desafio 4: Modelo de Regressão para Marketing](#desafio-4-modelo-de-regress%C3%A3o-para-marketing)  
