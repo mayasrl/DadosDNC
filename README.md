@@ -159,5 +159,5 @@ Agrupar (clusterizar) clientes com base em **RFV** (Recência, Frequência e Val
 ---
 
 <p align="center">
-  Desenvolvido com 💛 por @mayasrl durante a Formação em Dados da Escola DNC.
+  Desenvolvido com 💛 por @mayasrl.
 </p>
