@@ -33,6 +33,7 @@ Criar um **painel gerencial** para um e-commerce que deseja **estudar as suas ve
 - Aplicar **storytelling** e um bom **layout** para maior atratividade.
 
 **Visão do Painel:**
+
 ![Captura de tela 2024-08-24 150126](https://github.com/user-attachments/assets/489eb13b-c11a-4e53-9aa9-a593507dcfd3)
 
 ---
@@ -49,6 +50,7 @@ A empresa de Marketing Digital "X" quer **alcançar uma meta ambiciosa** neste t
 - Garantir **atualizações automatizadas** dos dados.
 
 **Visão do Painel:**
+
 ![image](https://github.com/user-attachments/assets/fc4ed17e-7249-4173-a8ea-1375883f921a)
 
 ---
@@ -65,6 +67,7 @@ Você é um **analista de dados** em uma Edtech, focada em **crescimento do núm
 - Propor **planos de ação** para acelerar o crescimento.
 
 **Exemplo de Análise (Printscreen):**
+
 ![Captura de tela 2025-01-13 102644](https://github.com/user-attachments/assets/f6776f0f-8321-42ec-bf31-b1e055191680)
 
 ---
@@ -86,6 +89,7 @@ Uma empresa investe em diferentes plataformas de publicidade online (YouTube, Fa
 - Gerar insights para **otimizar gastos em publicidade**.
 
 **Exemplo de Visualização:**
+
 ![image](https://github.com/user-attachments/assets/249de4bc-70d7-49dc-83bf-50f002a90f34)
 ![image](https://github.com/user-attachments/assets/58db978d-1c99-42f4-86b3-59731b8a362a)
 
@@ -106,9 +110,9 @@ Uma empresa de e-commerce deseja levantar indicadores de **Recência (R)**, **Fr
 - Salvar em um **novo CSV** com colunas: ID do cliente, R, F, M.
 
 **Imagens Ilustrativas:**
+
 ![image](https://github.com/user-attachments/assets/e7f0c03f-d36b-4451-ac9a-28e289b322a8)
 ![image](https://github.com/user-attachments/assets/b3681f37-5dcf-4f83-82a7-d351906aebd2)
-![image]
 
 ---
 
@@ -127,6 +131,7 @@ Criar um **modelo de classificação** (ex.: Regressão Logística, Árvore de D
 - Fazer **propostas** de ação para reduzir o churn.
 
 **Exemplo de Visualização:**
+
 ![image](https://github.com/user-attachments/assets/49b3a4b2-003a-4f8a-bf4d-c9ea01f3e7c2)
 
 ---
@@ -148,20 +153,11 @@ Agrupar (clusterizar) clientes com base em **RFV** (Recência, Frequência e Val
 - Gerar **insights** para segmentar e direcionar campanhas de marketing.
 
 **Exemplo de Visualização:**
+
 ![image](https://github.com/user-attachments/assets/5f6af493-1020-42ed-8baa-df05b3dec6da)
 
 ---
 
-## Como Contribuir
-
-1. Faça um **fork** deste repositório.  
-2. Crie uma **branch** para a sua feature (`git checkout -b feature/sua-feature`).  
-3. Faça o **commit** das suas alterações (`git commit -m 'Adicionando minha feature'`).  
-4. Faça o **push** para a branch (`git push origin feature/sua-feature`).  
-5. **Abra um Pull Request** para análise.
-
----
-
 <p align="center">
-  Desenvolvido com 💙 durante a Formação em Dados da Escola DNC.
+  Desenvolvido com 💛 por @mayasrl durante a Formação em Dados da Escola DNC.
 </p>
