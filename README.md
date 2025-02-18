@@ -1,4 +1,4 @@
-# Formação em Dados - Escola DNC
+# Formação em Dados - Escola DNC 
 
 Bem-vindo(a)! Este repositório reúne **trabalhos e desafios** realizados durante o curso de **Formação em Dados** da **Escola DNC**. Cada desafio foca em uma etapa ou técnica específica dentro do universo de Dados, desde visualizações em **Power BI**, análises com **SQL**, até modelos de regressão e classificação em **Python**.
 
